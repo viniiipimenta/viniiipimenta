@@ -7,11 +7,11 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,stackoverflow,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,linux,git)](https://skillicons.dev)
 
 ## Future Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,C#,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,gcp,aws,docker)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=viniiipimenta&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
