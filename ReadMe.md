@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/viniiipimenta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viniiipimenta) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/viniiipimenta) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/viniiipimenta) 
 
 ## My Skills
 
