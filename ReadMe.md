@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Software Quality Assurance 🔭 I’m currently studying at 42 | Rio<br>🌱 I’m currently learning C/C++<br>📫 How to reach me mvinipimenta@gmail.com<br>⚡ Fun fact I'm a super Formula 1 fan
+🔭 I’m currently studying at 42 | Rio<br>🌱 I’m currently learning C/C++<br>📫 How to reach me mvinipimenta@gmail.com<br>⚡ Fun fact I'm a super Formula 1 fan
 
 
 ## 🌐 Socials:
