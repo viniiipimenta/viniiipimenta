@@ -4,14 +4,8 @@
 📫 Reach me at: mvinipimenta@gmail.com | [LinkedIn](https://linkedin.com/in/viniiipimenta)  
 ⚡ Fun fact: I’m a huge Formula 1 fan  
 
-## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/viniiipimenta) 
-
 ## 🚀 My Skills
-![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git)
-
-## 📚 Currently Learning
-![My Skills](https://skillicons.dev/icons?i=aws,docker,go)
+![Skills](https://skillicons.dev/icons?i=cypress,cs,python,fastapi,linux,docker,postman,rabbitmq,git,c,cpp) 
 
 ## 📊 GitHub Stats:
 <p align="center">
